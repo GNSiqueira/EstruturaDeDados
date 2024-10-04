@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kqOkxCFQTv7CmsOmL8kg6ObJWdfpj5eLVr/vWJgQ8xgClfKL/YGEgL4SwIJHBX04lebotUpxfnu7nYQbXHAUw==",
+  "success": false,
+  "projectFilePath": "/home/gabrielneto/Área de trabalho/ESCOLA/Estrutura de Dados /Vetor e Matriz/Ex1/Lista1/Lista1.csproj",
+  "expectedPackageFiles": [
+    "/home/gabrielneto/.nuget/packages/microsoft.netcore.app.ref/8.0.8/microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
+    "/home/gabrielneto/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.ubuntu.24.04-x64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.ubuntu.24.04-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
